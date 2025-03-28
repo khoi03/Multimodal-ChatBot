@@ -1,7 +1,7 @@
-# ChatBot
+# ChatBot: Visual Conversation System
 
-## Introduction 
-In this task, I will introduce how to leverage the power of LLMs with RAG. The results can be viewed on [Jira](https://inspire-lab.atlassian.net/browse/AFT-77). The **RAG code** has been modified from [this repo](https://github.com/pixegami/langchain-rag-tutorial) and the remaining code was entirely written by **Khôi**.
+## Introduction
+Discover how to build an intelligent conversation system that goes beyond text-based interactions. This project demonstrates how to enhance LLMs/vLLMs/STT models with Retrieval-Augmented Generation (RAG) techniques to create a multimodal chatbot capable of understanding and discussing your images and videos. Experience natural conversations about your visual content through an intuitive interface that bridges the gap between advanced AI technology and everyday visual media.
 
 ## Install dependencies
 
