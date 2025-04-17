@@ -1,7 +1,7 @@
-# ChatBot: Visual Conversation System
+# ChatBot: LLM-Powered Conversations That See and Hear Your Content
 
 ## Introduction
-Discover how to build an intelligent conversation system that goes beyond text-based interactions. This project demonstrates how to enhance LLMs/vLLMs/STT models with Retrieval-Augmented Generation (RAG) techniques to create a multimodal chatbot capable of understanding and discussing your images and videos. Experience natural conversations about your visual content through an intuitive interface that bridges the gap between advanced AI technology and everyday visual media.
+Discover how to build an intelligent conversation system that goes beyond text-based interactions. This project demonstrates how to enhance LLMs/vLLMs/STT models with Retrieval-Augmented Generation (RAG) techniques to create a multimodal chatbot capable of understanding and discussing your images and videos. Experience natural conversations about your content through an intuitive interface that bridges the gap between advanced AI technology and everyday visual and audio media.
 
 ## Install dependencies
 
